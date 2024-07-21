@@ -54,3 +54,29 @@ input:valid ~ label{
     background: #191825;
     margin-top: 59px;
 }
+
+.submit-button{
+    background-color: #2a832dd3;
+    border: none;
+    color: white;
+    /* padding: 15px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family:Helvetica Neue,Arial, Helvetica, sans-serif;
+    width: 142px;
+    height: 33px;
+    margin-top: 1px;
+}
+.button:hover{
+    background-color: green;
+}
+.button-div{
+    margin-left: 99px;
+    margin-top: 40px;
+}
